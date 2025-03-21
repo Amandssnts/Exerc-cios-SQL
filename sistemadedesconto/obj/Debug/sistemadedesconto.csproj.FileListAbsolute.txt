@@ -1,0 +1,10 @@
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\bin\Debug\sistemadedesconto.exe.config
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\bin\Debug\sistemadedesconto.exe
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\bin\Debug\sistemadedesconto.pdb
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\obj\Debug\sistemadedesconto.csproj.AssemblyReference.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\obj\Debug\sistemadedesconto.frmsistemadedesconto.resources
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\obj\Debug\sistemadedesconto.Properties.Resources.resources
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\obj\Debug\sistemadedesconto.csproj.GenerateResource.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\obj\Debug\sistemadedesconto.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\obj\Debug\sistemadedesconto.exe
+C:\Users\amanda.ssantos151\source\programadordesistemas\sistemadedesconto\obj\Debug\sistemadedesconto.pdb

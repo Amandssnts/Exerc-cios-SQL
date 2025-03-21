@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistemadedesconto", "sistemadedesconto.csproj", "{63992388-962F-4C96-8669-3F430412A934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63992388-962F-4C96-8669-3F430412A934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63992388-962F-4C96-8669-3F430412A934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63992388-962F-4C96-8669-3F430412A934}.Debug|x64.ActiveCfg = Debug|x64
+		{63992388-962F-4C96-8669-3F430412A934}.Debug|x64.Build.0 = Debug|x64
+		{63992388-962F-4C96-8669-3F430412A934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63992388-962F-4C96-8669-3F430412A934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63992388-962F-4C96-8669-3F430412A934}.Release|x64.ActiveCfg = Release|x64
+		{63992388-962F-4C96-8669-3F430412A934}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B0C4C32-5272-452F-A6BF-B3D39E02AA80}
+	EndGlobalSection
+EndGlobal
